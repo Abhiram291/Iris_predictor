@@ -72,7 +72,7 @@ for step in range(1, len(probabilities) + 1):
     ))
 
     fig.update_layout(
-        title='xPrediction Probabilities',
+        title='Prediction Probabilities graph',
         title_font=dict(size=24, ),
         xaxis_title='Flower Species',
         yaxis_title='Probability',
