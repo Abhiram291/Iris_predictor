@@ -13,11 +13,9 @@ This is a simple machine learning web app that predicts the species of Iris flow
 Interact with sliders, get real-time predictions, and see visual feedback instantly.
 
 📸 **Here’s what it looks like:**
-
 <p align="center">
-  <img src="<img width="1437" height="818" alt="Screenshot 2025-07-19 at 9 37 08 PM" src="https://github.com/user-attachments/assets/18737722-4f2e-4e6e-b272-9a629b4060a5" />
+  <img src="https://<img width="1437" height="818" alt="Screenshot 2025-07-19 at 9 37 08 PM" src="https://github.com/user-attachments/assets/0a8d6a8d-1504-422f-888a-168dcdd58b06" />
 " alt="Iris Predictor Screenshot" width="70%">
-  <img src="https://your-screenshot-link.png" alt="Iris Predictor Screenshot" width="70%">
 </p>
 
 > 🌼 Enter petal and sepal dimensions → 🧠 Let the model predict → 🌸 View the predicted Iris species instantly!
