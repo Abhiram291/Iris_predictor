@@ -7,7 +7,7 @@ This is a simple machine learning web app that predicts the species of Iris flow
 
 ---
 
-## 🌟 Live Preview of the App
+##  Live Preview of the App
 
 🎯 **Intuitively designed UI to make predictions with ease.**  
 Interact with sliders, get real-time predictions, and see visual feedback instantly.
@@ -18,7 +18,7 @@ Interact with sliders, get real-time predictions, and see visual feedback instan
 
 
 
-> 🌼 Enter petal and sepal dimensions → 🧠 Let the model predict → 🌸 View the predicted Iris species instantly!
+> 🌼 Enter petal and sepal dimensions →  Let the model predict → 🌸 View the predicted Iris species instantly!
 
 ---
 
