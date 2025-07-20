@@ -9,7 +9,7 @@ This is a simple machine learning web app that predicts the species of Iris flow
 
 ##  Live Preview of the App
 
-🎯 **Intuitively designed UI to make predictions with ease.**  
+ **Intuitively designed UI to make predictions with ease.**  
 Interact with sliders, get real-time predictions, and see visual feedback instantly.
 
 📸 **Here’s what it looks like:**
