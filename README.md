@@ -14,6 +14,8 @@ Interact with sliders, get real-time predictions, and see visual feedback instan
 
 📸 **Here’s what it looks like:**
 <img width="1437" height="818" alt="App_Screenshot" src="https://github.com/user-attachments/assets/c91f6324-0610-4d64-8fd4-54f8d2f07fc7" />
+<img width="749" height="737" alt="App_screeshot2" src="https://github.com/user-attachments/assets/f897114b-e732-4a9e-897c-50b1af09a261" />
+
 
 
 > 🌼 Enter petal and sepal dimensions → 🧠 Let the model predict → 🌸 View the predicted Iris species instantly!
