@@ -14,7 +14,7 @@ Interact with sliders, get real-time predictions, and see visual feedback instan
 
 📸 **Here’s what it looks like:**
 <p align="center">
-  <img src="<img width="1437" height="818" alt="App_Screenshot" src="https://github.com/user-attachments/assets/37c25749-d1aa-4a44-98f3-7afd06ae74d5" />
+  <img src="https://raw.githubusercontent.com/Abhiram291/Iris_predictor/main/<img width="1437" height="818" alt="App_Screenshot" src="https://github.com/user-attachments/assets/1ec8274d-ef74-47b1-b76b-f5ce6b554dc1" />
 " alt="Iris Predictor Screenshot" width="70%">
 </p>
 
